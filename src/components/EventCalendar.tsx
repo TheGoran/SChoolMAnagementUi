@@ -14,19 +14,19 @@ const events = [
     {
         id:1,
         title:"Lorem Ipsum Dolor",
-        time:"12:00 PM 2:00 PM",
+        time:"12:00 PM - 2:00 PM",
         description: "Liorem Ipsum dolor sit amet, consectetur adipiscing elit"
     },
     {
         id:2,
         title:"Lorem Ipsum Dolor",
-        time:"9:00 PM 2:00 PM",
+        time:"9:00 PM - 2:00 PM",
         description: "Liorem Ipsum dolor sit amet, consectetur adipiscing elit"
     },
     {
         id:3,
         title:"Lorem Ipsum Dolor",
-        time:"10:00 PM 2:00 PM",
+        time:"10:00 PM - 2:00 PM",
         description: "Liorem Ipsum dolor sit amet, consectetur adipiscing elit"
     },    
 ]
